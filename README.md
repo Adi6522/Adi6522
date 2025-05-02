@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm a passionate and driven Computer Science student with a strong foundation in programming, data structures, and system design. I enjoy building practical software solutions and exploring how technology can improve everyday life. With hands-on experience in Java, Python, web development, and backend integration, I’m always looking to learn new tools and take on challenges that sharpen my problem-solving skills. I aim to contribute to impactful projects and grow into a role where I can make a difference through technology.
 
 <!--
 **Adi6522/Adi6522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
