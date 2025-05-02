@@ -1,4 +1,6 @@
-## I'm a passionate and driven Computer Science student with a strong foundation in programming, data structures, and system design. I enjoy building practical software solutions and exploring how technology can improve everyday life. With hands-on experience in Java, Python, web development, and backend integration, I’m always looking to learn new tools and take on challenges that sharpen my problem-solving skills. I aim to contribute to impactful projects and grow into a role where I can make a difference through technology.
+## 
+
+I am a dedicated Computer Science student with a strong academic background in software development, algorithms, and computer systems. My interests lie in areas such as backend development, database management, and system architecture. Through coursework and independent projects, I have gained practical experience in languages like Java, C++, and Python, and have developed a solid understanding of cybersecurity and version control systems. I am committed to continuous learning and aspire to contribute to research and real-world applications that advance the field of computer science.
 
 <!--
 **Adi6522/Adi6522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
